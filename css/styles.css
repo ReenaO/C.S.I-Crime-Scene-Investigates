@@ -2,7 +2,9 @@ header {
     background-color: #165215;
     color: white;
     }
-    
+    table {
+        Border: 2px solid #165215;
+    }
 
     
         

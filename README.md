@@ -8,36 +8,42 @@ feedback form.
 <header>
 C.S.I Crime Scene Investigates
 
-  <image>
+        ![C.S.I team](https://canyouhearmenow1.files.wordpress.com/2013/11/csi_las_vegas.jpg)
              nav bar with home cast episodes feedback
 
-facts
-csi effects
-gadgets
-on mobile screen these will be listed like above
-on tablet and laptop these will be alongside each other.
+**_NOTE_** facts  <br>
+**_NOTE_** csi effects <br>
+**_NOTE_** gadgets <br>
+
+On mobile screen these will be listed like above
+On tablet and laptop these will be alongside each other.
 
 
-pictures and information on cast
+pictures and information on cast: fancy frames with information on cast
 
-list of episodes and summary
+list of episodes and summary: Some seasons many only have episode number listed as there is 15 seasons
 
-feefback form
+feefback form: name, email ,feedback box ,question with radio button, question with a checkbox button, submil and reset buttons the form will be labelled for ease of use.
 
-footer
+footer:  thank you and copyright
 
 
 Thanks to:
+https://canyouhearmenow1.files.wordpress.com/2013/11/csi_las_vegas.jpg
+Wikipedia
+stack Overflow
+http://m.imdb.com/title/tt0247082/episodes/?season=1
 
 
 
-colors:
+
+colors: as picture has greens in it i decided on Greens with white text:
+greens:  #185215
+
+coding languages: html and css, images and fancy frames
 
 
-coding languages:
-
-
-table of content
+table of content: 
 
 
 
