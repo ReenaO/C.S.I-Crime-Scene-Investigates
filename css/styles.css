@@ -14,7 +14,13 @@ header {
 
     }
     div {
-        color: green;
+        color: #165215;
+        line-height: 2px;
+    }
+    article {
+        line-height: 2px;
+    }
+    aside {
         line-height: 2px;
     }
 
