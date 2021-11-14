@@ -35,13 +35,12 @@ header {
     a:hover {
         color: rgb(236, 240, 233);
     }
-    a {
+    a:link {
         color: white;
     }
      footer { 
          background-color: #165215;
          height: 100px;
          width: 100%;
-         
-     }   
+    }   
     
