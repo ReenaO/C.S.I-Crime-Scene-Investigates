@@ -24,6 +24,13 @@ header {
     aside {
         color: rgb(3, 105, 3);
         }
+       h2 { 
+           text-align: center;
+       } 
+    #cast { 
+        color: greenyellow;
+        font-weight: 900;
+    }
 
     
         
