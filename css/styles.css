@@ -40,5 +40,8 @@ header {
     }
      footer { 
          background-color: #165215;
+         height: 100px;
+         width: 100%;
+         
      }   
     
