@@ -33,8 +33,12 @@ header {
     }
 
     a:hover {
-        color: lawngreen;
+        color: rgb(236, 240, 233);
     }
-    
-        
+    a {
+        color: white;
+    }
+     footer { 
+         background-color: #165215;
+     }   
     
