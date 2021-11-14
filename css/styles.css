@@ -15,7 +15,7 @@ header {
     }
     div {
         color: #165215;
-        line-height: 2px;
+        line-height: .5em;
     }
     article {
         line-height: 2px;
