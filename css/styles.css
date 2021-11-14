@@ -15,13 +15,14 @@ header {
     }
     div {
         color: #165215;
-        line-height: .5em;
+        
     }
     article {
-        line-height: 2px;
+        font-size: 4px;
+        
     }
     aside {
-        line-height: 2px;
+        font-size: 4px;
     }
 
     
