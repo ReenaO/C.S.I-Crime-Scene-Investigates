@@ -32,6 +32,9 @@ header {
         font-weight: 900;
     }
 
+    a:hover {
+        color: lawngreen;
+    }
     
         
     
