@@ -17,12 +17,12 @@
          <a href="#episodes">Episodes</a>
          <a href="#feedback">Feedback</a>
     </header>
-
+    <nav id="home"></nav>
    <!--Facts here-->
    <div>
     <h2>Facts</h2>
     <h4>C.S.I is not shot in Las Vegas</h4>
-    <p>C.S.I is shot using skylines and sets in Santa Clarita, Calfornia and surrounding area . Occasionally filming in Las Vegas.</p>
+    <p>C.S.I is shot using skylines and sets in Santa Clarita, Calfornia and surrounding area. Occasionally filming in Las Vegas.</p>
     <h4>The C.S.I's are scientists not members of Police Department.</h4>
     <h4>To Introduce C.S.I Miami a cross-jurisation episode was used.</h4>
     <p>A case starting in Las Vegas led them to Miami. As  Miami team introduced themselves to Las Vegas team the audience was getting to know them.</p>
@@ -36,7 +36,7 @@
 
     <!--csi  effects-->
 <article>
-    <h2>C.S.I effects--</h2>
+    <h2>C.S.I Effects--</h2>
     <p> Is when they show the camera going down into a wound track or deeper into something like going into aeroplane workings. They have also shown what a ball hitting the heart will do. 
         the csi effect is how csi is different and standout from other murder shows.
     </p>
@@ -45,21 +45,30 @@
     <aside>
     <h2>Gadgets</h2>
        <h4>Als- Advanced lighting system</h4> 
-       <p>different filters on this light shows up different things. For example bodily floods</p>
+       <p>Different filters on this light shows up different things. For example bodily floods</p>
        <h4>GCMS - Gas chromatography-mass spectrometry</h4>
        <p>Identifys different substances with a simple test</p>
        <h4>Computer</h4>
-       <p>for running fingerprints in a data base or other data. </p>
+       <p>For running fingerprints in a data base or other data. </p>
        <h4>Dust lifter</h4>
-       <p>used for lifting shoe prints</p>
-       <h4>Microscop</h4>
-       <p>for checking bullet  striation and other particles</p>
+       <p>Used for lifting shoe prints</p>
+       <h4>Microscope</h4>
+       <p>For checking bullet  striation and other particles</p>
     </aside>
-
+     
     <!--cast div here-->
-
-    <!--episodes-->
+    <nav id="cast">
     <div>
+     <h4> William Peterson as Gil Grissom:</h4>
+     <p>Is a forensic entomologist and has a doctoral degree in biology from University Of California. Gil was the shift supervisor on graveyard. He became a C.S.I in 1985 and left Las Vegas Crime lab in 2009.
+         He was a researcher for a short time. Gil became a sea advocate and rejoined ex wife Sara. They sail off together to the Port of San Diego.
+     </p>
+     <h4>Marg Helgenberger as Catherine Willows</h4>
+     <p>Catherine is a blood splatter analyst. She is assistant supervisor on graveyard shift. She worked for a while as graveyard supervisor. Catherine was demoted after a departmental scandel and join F.B.I as a special agent.In the series finale Catherine returns and gets directorship of the crime lab.</p>
+</div>
+</nav>
+    <!--episodes-->
+    <nav id="episodes">
     <table>
         <tr>
             <th>Number</th>
@@ -82,8 +91,8 @@
             <td>
                 <ul>
                     <li>Grissom - appointed head of crime lab</li>
-                    <li>grissom - looks into death of jackpot winner</li>
-                    <li>Warrick leaves rookie Holly alone and she gets shot</li>li>
+                    <li>Grissom - looks into death of jackpot winner</li>
+                    <li>Warrick leaves rookie Holly alone and she gets shot</li>
                 </ul>
             </td>
         <tr>
@@ -111,7 +120,7 @@
             <td>Friends & Lovers</td>
             <td>
                 <ul>
-                    <li>naked young man found in dead dessert</li>
+                    <li>Naked young man found in dead dessert</li>
                     <li>Dean of charter school beaten to death</li>
                     <li>Woman found in dumpster after being buried</li>
                 </ul>
@@ -158,7 +167,7 @@
             <td>
                 <ul>
                     <li>Grissom uses insects to establish time of death of woman found wrapped in a blanket in the mountain</li>
-                    <li>nick loes for missing woman</li>
+                    <li>Nick looks for missing woman</li>
                     <li>Warrick +Catherine investigate missing painting</li>
                 </ul>
             </td>
@@ -269,7 +278,7 @@
                     <td>
                         <ul>
                             <li>Girl dies at carnival</li>
-                            <li>jogger killed by apparent animal attack </li>
+                            <li>Jogger killed by apparent animal attack </li>
                         </ul>
                     </td>
                 </tr> 
@@ -295,10 +304,52 @@
      </table>
     </div>
     <!--feedback-->
-    <form>
-        <input type="text"
+    <nav id="feedback"></nav>
+    <form action="https://www.sendmydata here.com" method="post">
+        <fieldset>
+            <legend>Personal Information</legend>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required placeholder="enter name">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required placeholder="enter email">
+        </fieldset>
+        <fieldset>
+            <legend>General Information</legend>
+            <label for="yes-no-choice">Have you watched C.S.I?</label>
+            <input type="radio" id="yes" name="yes-no" value="yes">
+            <label for="yes">Yes</label>
+            <input type="radio" id="no" name="yes-no" value="no">
+           <label for="no">No</label>
+
+            <label for="fav-episode">What is your favourite Season?</label>
+            <datalist id="seasons">
+                <option value="Season 1"></option>
+                <option value="Season 2"></option>
+                <option value="Season 3"></option>
+                <option value="Season 4"></option>
+                <option value="Season 5"></option>
+                <option value="Season 6"></option>
+                <option value="Season 7"></option>
+                <option value="Season 8"></option>
+                <option value="Season 9"></option>
+                <option value="Season 10"></option>
+                <option value="Season 11"></option>
+                <option value="Season 12"></option>
+                <option value="Season 13"></option>
+                <option value="Season 14"></option>
+                <option value="Season 15"></option> 
+            </datalist>
+            <textarea id="feedback" name="feedback" minlength="20" maxlength="35"></textarea>
+            <label id="feedback">Feedback</label>
+     </fieldset>
+
+    <button type="submit">     <input type="reset">
+
     </form>
     <!---footer-->
+    <footer>
+             ©1234567890 
+    </footer>
 
     
 </body>
