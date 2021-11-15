@@ -54,6 +54,9 @@ header {
         background-color: rgb(152, 233, 31);
         color: white;
     }
+    form { 
+        font-size: medium;
+    }
 
     a:hover {
         color: blue;
