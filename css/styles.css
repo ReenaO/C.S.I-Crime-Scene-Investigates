@@ -7,8 +7,10 @@ header {
     height:100%;
     }
     body {
+        background-color: green;
         font-size: large;
         font-family: Arial, Helvetica, sans-serif;
+        line-height: 20px;
     }
     table {
         width: 100%;
