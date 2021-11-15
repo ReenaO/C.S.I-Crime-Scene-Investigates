@@ -30,7 +30,10 @@ header {
         background-color: #156b13;
         color: white;
       }
-
+#feedback {
+    width: 170px;
+    height: 22px;
+ }
     article {
         background-color: #0c6107;
         color: white;
