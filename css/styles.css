@@ -3,6 +3,8 @@ header {
     color: white;
     text-align: center;
     font-size: large;
+    width: 100%;
+    height:100%;
     }
     body {
         font-size: large;
@@ -46,6 +48,7 @@ header {
     aside {
         background-color: rgb(3, 105, 3);
         color: white;
+    
          }
 
      h2 { 
