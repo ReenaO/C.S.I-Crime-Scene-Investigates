@@ -52,5 +52,9 @@ header {
          background-color: #165215;
          height: 100px;
          width: 100%;
+         Text-align: center;
+         color: white;
+         position: fixed;
+
     }   
     
