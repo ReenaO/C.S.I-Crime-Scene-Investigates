@@ -66,9 +66,10 @@ header {
         
 }   
 input [type="submit"] {
-    color: rgb(152, 233, 31);
+    background-color: rgb(152, 233, 31);
+    color: white;
 
-    
+
 }
-}
+
     
