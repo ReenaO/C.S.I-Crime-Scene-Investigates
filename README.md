@@ -30,8 +30,8 @@ footer:  thank you and copyright
 
 Thanks to:
 https://canyouhearmenow1.files.wordpress.com/2013/11/csi_las_vegas.jpg
-Wikipedia
-stack Overflow
+https://www.wikipedia.org
+https://stackoverflow.com
 http://m.imdb.com/title/tt0247082/episodes/?season=1
 https://i.pinimg.com/236x/95/76/42/957642aea17d0eee5a3d93cba64f57b9.jpg
 https://i.pinimg.com/original/57/a8/7e/57a87e5dd0b9a3a7b1dfdf194f391ccd.jpg
@@ -43,8 +43,24 @@ https://i.pinimg.com/564x/88/63/61/8863617bf98f8b47ce48de331ac65bbd.jpg
 https://i.pinimg.com/564x/bf/25/cb/bf25cb8fb78a8992eeb9740baff15024.jpg
 https://i.pinimg.com/236x/c8/e6/09/c8e609e48d4fcca8bcc06b7a59a54499.jpg"
 
-colors: as picture has greens in it i decided on Greens with white text:
-greens:  #185215: header border on table
+Colors: as picture has greens in it i decided on Greens with white text:
+
+greens:  #185215: header + border on table +div+footer
+          green table background.
+          #0c6107 on article
+          rgb(152, 233, 31) on aside section
+          Red on link hover as green would have blended in
+Fonts:
+Arial, Helvetica,sans-serif
+-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+
+
+
+
+
 
 
 coding languages: html and css, images
@@ -57,7 +73,7 @@ Season 1 cast and information
 season 1 episodes and summary
 Feedback form
 Footer 
-external links and find us links
+Copyrightand find us links
 
 
 
