@@ -76,9 +76,12 @@ Footer
 Copyrightand find us links
 
 
+Validited on ww3validator for html and css. code had a few typo which have been corrected.
+The value of the for attribute of the label element must be the ID of a non-hidden form control.
 
-
-
+Deployment: Fill out form onProject submission page
+finished signing up to Heroku
+redirect to github share links for github and heroku.
 
 
 
