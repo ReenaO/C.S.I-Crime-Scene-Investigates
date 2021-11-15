@@ -7,7 +7,6 @@ header {
     height:100%;
     }
     body {
-        background-color: green;
         font-size: large;
         font-family: Arial, Helvetica, sans-serif;
         
@@ -35,7 +34,7 @@ header {
     div {
         background-color: #156b13;
         color: white;
-        line-height: 14px;
+        line-height: 16px;
       }
 #feedback {
     width: 170px;
@@ -44,11 +43,13 @@ header {
     article {
         background-color: #0c6107;
         color: white;
+        line-height:16px;
      }
 
     aside {
         background-color: rgb(3, 105, 3);
         color: white;
+        line-height:16px;
      }
 
      h2 { 
