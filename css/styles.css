@@ -41,9 +41,9 @@ header {
     }
 
     a:hover {
-        color: rgb(236, 240, 233);
+        color: blue;
     }
-    a:link {
+    a {
         color: white;
     }
      footer { 
