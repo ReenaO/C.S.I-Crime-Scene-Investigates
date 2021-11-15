@@ -10,7 +10,7 @@ header {
         background-color: green;
         font-size: large;
         font-family: Arial, Helvetica, sans-serif;
-        line-height: 20px;
+        
     }
     table {
         width: 100%;
@@ -34,6 +34,7 @@ header {
     div {
         background-color: #156b13;
         color: white;
+        line-height: 14px;
       }
 #feedback {
     width: 170px;
