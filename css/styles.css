@@ -25,6 +25,7 @@ header {
     img{
         width: 100px;
         height: 150px;
+        float: right;
     }
     div {
         background-color: #156b13;
