@@ -55,12 +55,13 @@ header {
     a {
         color: white;
     }
-    #footer { 
-         background-color: #165215;
-         height: 100%;
-         width: 100%;
-         Text-align: center;
-         color: white;
-         position: fixed;
+    #footer {  
+        position: fixed;
+        background-color: #165215;
+        height: 100%;
+        width: 100%;
+        Text-align: center;
+        color: white;
+        
 }   
     
