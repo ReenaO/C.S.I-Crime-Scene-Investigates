@@ -47,7 +47,7 @@ header {
     #cast { 
         color: rgb(152, 233, 31);
         font-weight: 900;
-        font-size: larger;
+        font-size: medium;
     }
     
     input [type="submit"] {
