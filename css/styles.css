@@ -75,6 +75,11 @@ header {
     a {
         color: white;
     }
+    form
+    {
+        color: #165215;
+        
+    }
 
     #footer {  
         position: fixed;
