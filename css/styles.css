@@ -38,13 +38,13 @@ header {
     article {
         background-color: #0c6107;
         color: white;
-        display: inline;
+     display:inline;
      }
 
     aside {
         background-color: rgb(3, 105, 3);
         color: white;
-        display: inline
+        display: inline;
         }
 
      h2 { 
