@@ -61,7 +61,7 @@ header {
         font-size: large;
     }
     
-    input [type="submit"] {
+    input [type="submit" "reset"] {
         background-color: rgb(152, 233, 31);
         color: white;
     }
