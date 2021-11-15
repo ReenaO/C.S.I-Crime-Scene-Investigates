@@ -1,6 +1,7 @@
 header {
     background-color: #165215;
     color: white;
+    text-align: center;
     }
     table {
         Border: 4px solid #165215;
@@ -11,21 +12,26 @@ header {
         width: 100%;
         height: 100%;
     }
+    
     img{
         width: 100px;
         height: 150px;
     }
     div {
-        color: #113f0f;
-        
-    }
+        background-color: #156b13;
+        color: white;
+      }
+
     article {
-        color: #0c6107;
-        
-    }
+        background-color: #0c6107;
+        color: white;
+     }
+
     aside {
-        color: rgb(3, 105, 3);
+        background-color: rgb(3, 105, 3);
+        color: white;
         }
+
        h2 { 
            text-align: center;
        } 
