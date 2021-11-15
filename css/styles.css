@@ -57,7 +57,7 @@ header {
     }
     #footer { 
          background-color: #165215;
-         height: 100px;
+         height: 100%;
          width: 100%;
          Text-align: center;
          color: white;
