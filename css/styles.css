@@ -48,6 +48,11 @@ header {
         color: rgb(152, 233, 31);
         font-weight: 900;
     }
+    
+    input [type="submit"] {
+        background-color: rgb(152, 233, 31);
+        color: white;
+    }
 
     a:hover {
         color: blue;
@@ -65,11 +70,7 @@ header {
         color: white;
         
 }   
-input [type="submit"] {
-    background-color: rgb(152, 233, 31);
-    color: white;
 
 
-}
 
     
