@@ -41,12 +41,13 @@ header {
         color: white;
         }
 
-       h2 { 
+     h2 { 
            text-align: center;
        } 
     #cast { 
         color: rgb(152, 233, 31);
         font-weight: 900;
+        font-size: larger;
     }
     
     input [type="submit"] {
