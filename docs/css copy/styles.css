@@ -1,0 +1,97 @@
+header {
+    background-color: #165215;
+    color: white;
+    text-align: center;
+    font-size: large;
+    width: 100%;
+    height:100%;
+    }
+    body {
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    table {
+        width: 100%;
+        border: 4px solid #165215;
+        background-color: green;
+        color: white;
+        font-size: large;
+        font-family: 'Helvetica Neue', sans-serif;
+        line-height: 18px;
+    }
+
+   #header {
+        width: 100%;
+        height: 100%;
+    }
+    
+    img{
+        width: 100px;
+        height: 150px;
+        float: right;
+    }
+    div {
+        background-color: #156b13;
+        color: white;
+        line-height: 16px;
+      }
+.feedback {
+    width: 170px;
+    height: 22px;
+ }
+    article {
+        background-color: #0c6107;
+        color: white;
+        line-height:16px;
+     }
+
+    aside {
+        background-color: rgb(3, 105, 3);
+        color: white;
+        line-height:16px;
+     }
+
+     h2 { 
+           text-align: center;
+       } 
+    .cast { 
+        font-weight: 900;
+        font-size: large;
+        color: rgb(152, 233, 31);
+    }
+     input [type="reset"] input [type="submit"] {
+        background-color: rgb(152, 233, 31);
+        color: white;
+    }
+    form { 
+        font-size: medium;
+    }
+
+    a:hover {
+        color: red;
+    }
+    a {
+        color: white;
+    }
+    form
+    {
+        color: #165215;
+        
+    }
+
+    #footer {  
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        background-color: #165215;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        color: white;
+        font-size: medium;
+  }   
+
+
+
+    
